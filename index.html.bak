@@ -24,18 +24,6 @@
       }
     </style>
   <link rel="shortcut icon" href="/favicon.ico" /></head>
-  <!-- Open Graph -->
-  <meta property="og:title" content="Toon Toon Radio">
-  <meta property="og:description" content="Playful radio streaming focused on music discovery.">
-  <meta property="og:image" content="https://toontoonradio.com/og-image.png">
-  <meta property="og:url" content="https://toontoonradio.com/">
-  <meta property="og:type" content="website">
-
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Toon Toon Radio">
-  <meta name="twitter:description" content="Playful radio streaming focused on music discovery.">
-  <meta name="twitter:image" content="https://toontoonradio.com/og-image.png">
 
   <body>
     <!-- Use static rendering with Expo Router to support running without JavaScript. -->
